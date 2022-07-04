@@ -1,0 +1,522 @@
+23 May 2021
+15:00 Arsenal - Brighton 2:0 -145 +320 +394
+15:00 Aston Villa - Chelsea  2:1 +598 +388 -217
+15:00 Fulham - Newcastle 0:2 +148 +248 +191
+15:00 Leeds - West Brom 3:1 -182 +376 +459
+15:00 Leicester - Tottenham 2:4 -123 +324 +313
+15:00 Liverpool - Crystal Palace 2:0 -625 +771 +1567
+15:00 Manchester City - Everton 5:0 -333 +520 +872
+15:00 Sheffield Utd - Burnley 1:0 +183 +250 +154
+15:00 West Ham - Southampton 3:0 -127 +287 +359
+15:00 Wolves - Manchester Utd 1:2 +136 +229 +225
+19 May 2021
+19:15 Burnley - Liverpool 0:3 +877 +531 -345
+19:15 West Brom - West Ham 1:3 +413 +329 -156
+18:00 Crystal Palace - Arsenal 1:3 +484 +312 -164
+17:00 Everton - Wolves 1:0 -127 +272 +386
+17:00 Newcastle - Sheffield Utd 1:0 -119 +276 +338
+17:00 Tottenham - Aston Villa 1:2 -161 +350 +423
+18 May 2021
+19:15 Chelsea - Leicester 2:1 -143 +286 +434
+18:00 Brighton - Manchester City 3:2 +631 +368 -217
+17:00 Manchester Utd - Fulham 1:1 -333 +492 +915
+17:00 Southampton - Leeds 0:2 +166 +282 +152
+16 May 2021
+18:00 Everton - Sheffield Utd 0:1 -278 +416 +809
+15:30 West Brom - Liverpool 1:2 +1131 +625 -455
+13:05 Tottenham - Wolves 2:0 -182 +353 +492
+11:00 Crystal Palace - Aston Villa 3:2 +213 +252 +129
+15 May 2021
+19:00 Brighton - West Ham 1:1 +254 +258 +110
+14:00 Southampton - Fulham 3:1 -114 +277 +320
+11:30 Burnley - Leeds 0:4 +252 +283 +104
+14 May 2021
+19:00 Newcastle - Manchester City 3:4 +778 +484 -303
+13 May 2021
+19:15 Manchester Utd - Liverpool 2:4 +179 +274 +145
+17:00 Aston Villa - Everton 0:0 +202 +234 +147
+12 May 2021
+19:15 Chelsea - Arsenal 0:1 -106 +242 +342
+11 May 2021
+19:15 Southampton - Crystal Palace 3:1 -112 +282 +309
+17:00 Manchester Utd - Leicester 1:2 +273 +257 +108
+10 May 2021
+19:00 Fulham - Burnley 0:2 +123 +245 +238
+09 May 2021
+18:00 Arsenal - West Brom 3:1 -200 +355 +568
+15:30 West Ham - Everton 0:1 +114 +254 +248
+13:05 Aston Villa - Manchester Utd 1:3 +348 +300 -127
+11:00 Wolves - Brighton 2:1 +292 +231 +108
+08 May 2021
+19:15 Liverpool - Southampton 2:0 -323 +500 +859
+16:30 Manchester City - Chelsea 1:2 +104 +239 +305
+14:00 Sheffield Utd - Crystal Palace 0:2 +197 +222 +159
+11:30 Leeds - Tottenham 3:1 +300 +297 -114
+07 May 2021
+19:00 Leicester - Newcastle 2:4 -250 +392 +765
+03 May 2021
+19:15 Burnley - West Ham 1:2 +204 +257 +134
+17:00 West Brom - Wolves 1:1 +158 +214 +204
+02 May 2021
+18:15 Tottenham - Sheffield Utd 4:0 -303 +450 +897
+13:00 Newcastle - Arsenal 0:2 +281 +266 +100
+01 May 2021
+19:00 Everton - Aston Villa 1:2 -103 +278 +281
+16:30 Chelsea - Fulham 2:0 -204 +324 +709
+14:00 Brighton - Leeds 2:0 +108 +254 +269
+01 May 2021
+11:30 Crystal Palace - Manchester City 0:2 +901 +447 -294
+30 Apr 2021
+19:00 Southampton - Leicester 1:1 +316 +281 -114
+26 Apr 2021
+19:00 Leicester - Crystal Palace 2:1 -233 +368 +714
+25 Apr 2021
+18:00 Aston Villa - West Brom 2:2 +108 +252 +270
+13:00 Leeds - Manchester Utd 0:0 +338 +296 -123
+11:00 Wolves - Burnley 0:4 +135 +212 +248
+24 Apr 2021
+19:00 Sheffield Utd - Brighton 1:0 +535 +298 -167
+16:30 West Ham - Chelsea 0:1 +421 +299 -145
+11:30 Liverpool - Newcastle 1:1 -455 +631 +1170
+23 Apr 2021
+19:00 Arsenal - Everton 0:1 +104 +259 +277
+22 Apr 2021
+19:00 Leicester - West Brom 3:0 -159 +300 +479
+21 Apr 2021
+19:15 Aston Villa - Manchester City 1:2 +883 +436 -294
+17:00 Tottenham - Southampton 2:1 -116 +283 +326
+20 Apr 2021
+19:15 Chelsea - Brighton 0:0 -147 +274 +476
+19 Apr 2021
+19:00 Leeds - Liverpool 1:1 +422 +348 -164
+18 Apr 2021
+15:00 Manchester Utd - Burnley 3:1 -278 +428 +777
+12:30 Arsenal - Fulham 1:1 -118 +269 +351
+17 Apr 2021
+19:15 Wolves - Sheffield Utd 1:0 -127 +246 +430
+11:30 Newcastle - West Ham 3:2 +246 +242 +120
+16 Apr 2021
+19:00 Everton - Tottenham 2:2 +254 +249 +114
+12 Apr 2021
+19:15 Brighton - Everton 0:0 +114 +249 +252
+17:00 West Brom - Southampton 3:0 +264 +260 +106
+11 Apr 2021
+18:00 Sheffield Utd - Arsenal 0:3 +463 +288 -152
+15:30 Tottenham - Manchester Utd 1:3 +195 +257 +141
+13:05 West Ham - Leicester 3:2 +221 +229 +137
+11:00 Burnley - Newcastle 1:2 +127 +234 +236
+10 Apr 2021
+16:30 Crystal Palace - Chelsea 1:4 +652 +325 -200
+14:00 Liverpool - Aston Villa 2:1 -213 +373 +611
+11:30 Manchester City - Leeds 1:2 -263 +426 +707
+09 Apr 2021
+19:00 Fulham - Wolves 0:1 +166 +212 +196
+05 Apr 2021
+19:15 Wolves - West Ham 2:3 +189 +219 +164
+17:00 Everton - Crystal Palace 1:1 -119 +248 +384
+04 Apr 2021
+18:30 Manchester Utd - Brighton 2:1 -152 +295 +450
+15:30 Aston Villa - Fulham 3:1 +152 +220 +204
+13:05 Newcastle - Tottenham 2:2 +448 +289 -147
+11:00 Southampton - Burnley 3:2 +102 +241 +304
+03 Apr 2021
+19:00 Arsenal - Liverpool 0:3 +190 +264 +140
+16:30 Leicester - Manchester City 0:2 +442 +298 -147
+14:00 Leeds - Sheffield Utd 2:1 -179 +325 +525
+11:30 Chelsea - West Brom 2:5 -357 +478 +1157
+21 Mar 2021
+19:30 Aston Villa - Tottenham 0:2 +211 +245 +137
+15:00 West Ham - Arsenal 3:3 +254 +250 +114
+20 Mar 2021
+20:00 Brighton - Newcastle 3:0 -139 +258 +474
+19 Mar 2021
+20:00 Fulham - Leeds 1:2 +158 +235 +186
+15 Mar 2021
+20:00 Wolves - Liverpool 0:1 +476 +294 -156
+14 Mar 2021
+19:15 Manchester Utd - West Ham 1:0 -123 +261 +390
+16:30 Arsenal - Tottenham 2:1 +167 +237 +177
+14:00 Leicester - Sheffield Utd 5:0 -189 +307 +646
+12:00 Southampton - Brighton 1:2 +223 +221 +141
+13 Mar 2021
+19:00 Fulham - Manchester City 0:3 +739 +373 -238
+13 Mar 2021
+16:30 Everton - Burnley 1:2 +100 +234 +326
+14:00 Crystal Palace - West Brom 1:0 +136 +213 +243
+11:30 Leeds - Chelsea 0:0 +415 +292 -141
+12 Mar 2021
+19:00 Newcastle - Aston Villa 1:1 +272 +236 +112
+10 Mar 2021
+17:00 Manchester City - Southampton 5:2 -556 +644 +1648
+08 Mar 2021
+19:00 West Ham - Leeds 2:0 +125 +262 +217
+17:00 Chelsea - Everton 2:0 -159 +293 +512
+07 Mar 2021
+18:15 Tottenham - Crystal Palace 4:1 -185 +316 +568
+15:30 Manchester City - Manchester Utd 0:2 -200 +346 +579
+13:00 Liverpool - Fulham 0:1 -159 +301 +479
+11:00 West Brom - Newcastle 0:0 +134 +223 +235
+06 Mar 2021
+19:00 Brighton - Leicester 1:2 +154 +220 +204
+16:30 Aston Villa - Wolves 0:0 +162 +216 +194
+14:00 Sheffield Utd - Southampton 0:2 +281 +238 +110
+11:30 Burnley - Arsenal 1:1 +394 +266 -128
+04 Mar 2021
+19:15 Liverpool - Chelsea 0:1 +121 +252 +233
+17:00 Fulham - Tottenham 0:1 +293 +249 +102
+17:00 West Brom - Everton 0:1 +300 +250 -101
+03 Mar 2021
+19:15 Crystal Palace - Manchester Utd 0:0 +662 +368 -222
+17:00 Burnley - Leicester 1:1 +289 +216 +116
+17:00 Sheffield Utd - Aston Villa 1:0 +264 +244 +112
+02 Mar 2021
+19:00 Manchester City - Wolves 4:1 -455 +557 +1374
+01 Mar 2021
+19:00 Everton - Southampton 1:0 +114 +250 +250
+28 Feb 2021
+18:15 Sheffield Utd - Liverpool 0:2 +706 +437 -270
+15:30 Chelsea - Manchester Utd 0:0 +138 +237 +218
+13:00 Tottenham - Burnley 4:0 -200 +334 +626
+11:00 Crystal Palace - Fulham 0:0 +252 +224 +125
+11:00 Leicester - Arsenal 1:3 +137 +236 +217
+27 Feb 2021
+19:00 Newcastle - Wolves 1:1 +269 +215 +124
+16:30 Leeds - Aston Villa 0:1 +102 +282 +252
+14:00 West Brom - Brighton 1:0 +355 +257 -116
+11:30 Manchester City - West Ham 2:1 -370 +532 +1022
+23 Feb 2021
+17:00 Leeds - Southampton 3:0 +117 +264 +233
+22 Feb 2021
+19:00 Brighton - Crystal Palace 1:2 -130 +249 +440
+21 Feb 2021
+18:00 Manchester Utd - Newcastle 3:1 -294 +440 +875
+15:30 Arsenal - Manchester City 0:1 +592 +359 -208
+13:05 Aston Villa - Leicester 1:2 +273 +271 +100
+11:00 West Ham - Tottenham 2:1 +206 +244 +139
+20 Feb 2021
+19:00 Fulham - Sheffield Utd 1:0 -102 +237 +324
+16:30 Liverpool - Everton 0:2 -263 +436 +702
+14:00 Burnley - West Brom 0:0 +116 +229 +272
+11:30 Southampton - Chelsea 1:1 +376 +279 -128
+19 Feb 2021
+19:00 Wolves - Leeds 1:0 +131 +240 +223
+17 Feb 2021
+19:15 Everton - Manchester City 1:3 +1009 +487 -345
+17:00 Burnley - Fulham  1:1 +196 +217 +161
+15 Feb 2021
+19:00 Chelsea - Newcastle 2:0 -345 +487 +1008
+17:00 West Ham - Sheffield Utd 3:0 +102 +231 +313
+14 Feb 2021
+18:00 Everton - Fulham 0:2 +102 +242 +301
+15:30 Arsenal - Leeds 4:2 -122 +288 +319
+13:00 West Brom - Manchester Utd 1:1 +869 +492 -323
+14 Feb 2021
+11:00 Southampton - Wolves 1:2 +127 +227 +249
+13 Feb 2021
+19:00 Brighton - Aston Villa 0:0 +191 +237 +152
+16:30 Manchester City - Tottenham 3:0 -294 +478 +775
+14:00 Crystal Palace - Burnley 0:3 +184 +215 +174
+11:30 Leicester - Liverpool 3:1 +280 +289 -104
+08 Feb 2021
+19:00 Leeds - Crystal Palace 2:0 -123 +274 +341
+07 Feb 2021
+18:15 Sheffield Utd - Chelsea 1:2 +610 +332 -200
+15:30 Liverpool - Manchester City 1:4 +217 +266 +125
+13:00 Wolves - Leicester 0:0 +240 +227 +129
+11:00 Tottenham - West Brom 2:0 -256 +400 +763
+06 Feb 2021
+19:00 Manchester Utd - Everton 3:3 -161 +318 +459
+16:30 Fulham - West Ham 0:0 +313 +268 -110
+14:00 Burnley - Brighton 1:1 +267 +220 +121
+14:00 Newcastle - Southampton 3:2 +231 +250 +122
+11:30 Aston Villa - Arsenal 1:0 +198 +250 +142
+04 Feb 2021
+19:00 Tottenham - Chelsea 0:1 +304 +250 -101
+03 Feb 2021
+19:15 Aston Villa - West Ham 1:3 +136 +248 +208
+19:15 Liverpool - Brighton 0:1 -200 +363 +556
+18:30 Leeds - Everton 1:2 +161 +249 +174
+17:00 Burnley - Manchester City 0:2 +1514 +606 -500
+17:00 Fulham - Leicester 0:2 +282 +237 +108
+02 Feb 2021
+19:15 Manchester Utd - Southampton 9:0 -222 +386 +600
+19:15 Newcastle - Crystal Palace 1:2 +195 +231 +154
+17:00 Sheffield Utd - West Brom 2:1 +112 +240 +274
+17:00 Wolves - Arsenal 2:1 +267 +229 +117
+31 Jan 2021
+18:15 Brighton - Tottenham 1:0 +227 +238 +131
+15:30 West Ham - Liverpool 1:3 +252 +273 +106
+13:00 Leicester - Leeds 1:3 -118 +287 +321
+11:00 Chelsea - Burnley 2:0 -303 +430 +919
+30 Jan 2021
+19:00 Southampton - Aston Villa 0:1 +227 +270 +118
+16:30 Arsenal - Manchester Utd 0:0 +252 +257 +112
+14:00 Crystal Palace - Wolves 1:0 +195 +213 +164
+14:00 Manchester City - Sheffield Utd 1:0 -556 +641 +1705
+14:00 West Brom - Fulham 2:2 +254 +231 +121
+11:30 Everton - Newcastle 0:2 -175 +311 +548
+28 Jan 2021
+19:00 Tottenham - Liverpool 1:3 +261 +285 +100
+27 Jan 2021
+19:15 Everton - Leicester 1:1 +220 +229 +139
+19:15 Manchester Utd - Sheffield Utd 1:2 -357 +501 +998
+18:30 Brighton - Fulham 0:0 +106 +238 +293
+17:00 Burnley - Aston Villa 3:2 +342 +275 -120
+17:00 Chelsea - Wolves 0:0 -154 +286 +488
+26 Jan 2021
+19:15 Southampton - Arsenal 1:3 +256 +271 +106
+19:15 West Brom - Manchester City 0:5 +1823 +738 -667
+17:00 Crystal Palace - West Ham 2:3 +256 +236 +118
+17:00 Newcastle - Leeds 1:2 +307 +301 -118
+23 Jan 2021
+19:00 Aston Villa - Newcastle 2:0 -196 +363 +529
+21 Jan 2021
+19:00 Liverpool - Burnley 0:1 -312 +459 +911
+20 Jan 2021
+19:15 Fulham - Manchester Utd 1:2 +467 +315 -161
+17:00 Manchester City - Aston Villa 2:0 -323 +488 +883
+19 Jan 2021
+19:15 Leicester - Chelsea 2:0 +181 +249 +154
+19 Jan 2021
+17:00 West Ham - West Brom 2:1 -185 +326 +554
+18 Jan 2021
+19:00 Arsenal - Newcastle 3:0 -233 +378 +686
+17 Jan 2021
+18:15 Manchester City - Crystal Palace 4:0 -556 +661 +1591
+15:30 Liverpool - Manchester Utd 0:0 -105 +288 +278
+13:00 Sheffield Utd - Tottenham 1:3 +384 +262 -123
+16 Jan 2021
+19:00 Leicester - Southampton 2:0 -141 +290 +420
+16:30 Fulham - Chelsea 0:1 +532 +316 -175
+14:00 Leeds - Brighton 0:1 +127 +254 +218
+14:00 West Ham - Burnley 1:0 -128 +269 +394
+11:30 Wolves - West Brom 2:3 -156 +275 +530
+14 Jan 2021
+19:00 Arsenal - Crystal Palace 0:0 -145 +285 +440
+13 Jan 2021
+19:15 Tottenham - Fulham 1:1 -159 +286 +518
+17:00 Manchester City - Brighton 1:0 -588 +685 +1612
+12 Jan 2021
+19:15 Burnley - Manchester Utd 0:1 +692 +391 -238
+19:15 Wolves - Everton 1:2 +162 +194 +218
+17:00 Sheffield Utd - Newcastle 1:0 +135 +214 +242
+04 Jan 2021
+19:00 Southampton - Liverpool 1:0 +505 +384 -200
+03 Jan 2021
+15:30 Chelsea - Manchester City 1:3 +240 +263 +114
+13:15 Newcastle - Leicester 1:2 +511 +309 -169
+02 Jan 2021
+19:00 West Brom - Arsenal 0:4 +523 +304 -169
+16:30 Brighton - Wolves 3:3 +184 +206 +179
+14:00 Crystal Palace - Sheffield Utd 2:0 +108 +227 +297
+11:30 Tottenham - Leeds 3:0 -116 +299 +304
+01 Jan 2021
+19:00 Manchester Utd - Aston Villa 2:1 -143 +316 +380
+16:30 Everton - West Ham 0:1 +122 +249 +234
+30 Dec 2020
+19:00 Newcastle - Liverpool 0:0 +963 +504 -357
+29 Dec 2020
+19:00 Manchester Utd - Wolves 1:0 -182 +330 +528
+17:00 Brighton - Arsenal 0:1 +271 +249 +108
+17:00 Burnley - Sheffield Utd 1:0 +139 +220 +227
+17:00 Southampton - West Ham 0:0 +104 +259 +275
+17:00 West Brom - Leeds 0:5 +325 +301 -123
+28 Dec 2020
+16:30 Chelsea - Aston Villa 1:1 -123 +301 +329
+14:00 Crystal Palace - Leicester 1:1 +239 +243 +122
+27 Dec 2020
+18:15 Wolves - Tottenham 1:1 +261 +235 +118
+15:30 Liverpool - West Brom 1:1 -769 +839 +2022
+13:15 West Ham - Brighton 2:2 +137 +233 +218
+11:00 Leeds - Burnley 1:0 -143 +318 +379
+26 Dec 2020
+19:00 Manchester City - Newcastle 2:0 -769 +860 +1969
+19:00 Sheffield Utd - Everton 0:1 +242 +231 +125
+16:30 Arsenal - Chelsea 3:1 +384 +292 -133
+14:00 Aston Villa - Crystal Palace 3:0 -122 +288 +334
+14:00 Fulham - Southampton 0:0 +188 +234 +156
+11:30 Leicester - Manchester Utd 2:2 +200 +259 +134
+21 Dec 2020
+19:00 Chelsea - West Ham 3:0 -172 +337 +479
+16:30 Burnley - Wolves 2:1 +249 +209 +135
+20 Dec 2020
+18:15 West Brom - Aston Villa 0:3 +373 +308 -137
+15:30 Manchester Utd - Leeds 6:2 -139 +336 +343
+13:15 Tottenham - Leicester 0:2 +110 +250 +263
+11:00 Brighton - Sheffield Utd 1:1 -112 +247 +358
+19 Dec 2020
+19:00 Newcastle - Fulham 1:1 +185 +235 +158
+19 Dec 2020
+16:30 Everton - Arsenal 2:1 +169 +245 +167
+14:00 Southampton - Manchester City 0:1 +512 +368 -192
+11:30 Crystal Palace - Liverpool 0:7 +437 +312 -156
+17 Dec 2020
+19:00 Sheffield Utd - Manchester Utd 2:3 +638 +376 -222
+17:00 Aston Villa - Burnley 0:0 -118 +279 +332
+16 Dec 2020
+19:00 Fulham - Brighton 0:0 +193 +231 +156
+19:00 Liverpool - Tottenham 2:1 -120 +296 +326
+19:00 West Ham - Crystal Palace 1:1 +116 +242 +254
+17:00 Arsenal - Southampton 1:1 +118 +254 +241
+17:00 Leeds - Newcastle 5:2 -167 +344 +443
+17:00 Leicester - Everton 0:2 +112 +254 +252
+15 Dec 2020
+19:00 Manchester City - West Brom 1:1 -1000 +1065 +2422
+17:00 Wolves - Chelsea 2:1 +442 +281 -145
+13 Dec 2020
+18:15 Arsenal - Burnley 0:1 -222 +372 +641
+18:15 Leicester - Brighton 3:0 +104 +254 +280
+15:30 Fulham - Liverpool 1:1 +743 +451 -278
+13:15 Crystal Palace - Tottenham 1:1 +323 +283 -118
+11:00 Southampton - Sheffield Utd 3:0 -154 +301 +448
+12 Dec 2020
+19:00 Everton - Chelsea 1:0 +380 +329 -147
+16:30 Manchester Utd - Manchester City 0:0 +363 +325 -139
+14:00 Newcastle - West Brom 2:1 +145 +225 +213
+11:30 Wolves - Aston Villa 0:1 +160 +227 +191
+11 Dec 2020
+19:00 Leeds - West Ham 1:2 +114 +277 +227
+07 Dec 2020
+19:00 Brighton - Southampton 1:2 +145 +240 +200
+06 Dec 2020
+18:15 Liverpool - Wolves 4:0 -169 +334 +463
+15:30 Tottenham - Arsenal 2:0 +121 +250 +237
+13:15 Sheffield Utd - Leicester 1:2 +309 +256 -104
+11:00 West Brom - Crystal Palace 1:5 +202 +231 +148
+05 Dec 2020
+19:00 Chelsea - Leeds 3:1 -213 +400 +535
+16:30 West Ham - Manchester Utd 1:3 +243 +250 +118
+14:00 Manchester City - Fulham  2:0 -833 +930 +2128
+11:30 Burnley - Everton 1:1 +278 +257 +104
+30 Nov 2020
+19:00 West Ham - Aston Villa 2:1 +135 +252 +204
+16:30 Leicester - Fulham 1:2 -164 +315 +471
+29 Nov 2020
+18:15 Arsenal - Wolves  1:2 +108 +231 +289
+15:30 Chelsea - Tottenham 0:0 +100 +267 +277
+13:00 Southampton - Manchester Utd 2:3 +289 +274 -105
+28 Nov 2020
+19:00 West Brom - Sheffield Utd 1:0 +166 +216 +190
+16:30 Everton - Leeds 0:1 +129 +268 +204
+14:00 Manchester City - Burnley 5:0 -833 +921 +1926
+11:30 Brighton - Liverpool 1:1 +393 +325 -149
+27 Nov 2020
+19:00 Crystal Palace - Newcastle 0:2 +116 +220 +285
+23 Nov 2020
+19:00 Wolves - Southampton 1:1 +135 +225 +231
+16:30 Burnley - Crystal Palace 1:0 +168 +212 +193
+22 Nov 2020
+18:15 Liverpool - Leicester 3:0 -127 +312 +334
+15:30 Leeds - Arsenal 0:0 +249 +283 +104
+13:00 Sheffield Utd - West Ham 0:1 +213 +221 +147
+11:00 Fulham - Everton 2:3 +330 +282 -118
+21 Nov 2020
+19:00 Manchester Utd - West Brom 1:0 -312 +479 +844
+16:30 Tottenham - Manchester City 2:0 +320 +313 -123
+21 Nov 2020
+14:00 Aston Villa - Brighton 1:2 +129 +254 +213
+11:30 Newcastle - Chelsea 0:2 +612 +379 -217
+08 Nov 2020
+18:15 Arsenal - Aston Villa 0:3 -154 +337 +401
+15:30 Manchester City - Liverpool 1:1 -108 +321 +264
+13:00 Leicester - Wolves 1:0 +136 +218 +237
+11:00 West Brom - Tottenham 0:1 +552 +363 -200
+07 Nov 2020
+19:00 West Ham - Fulham 1:0 -118 +286 +321
+16:30 Chelsea - Sheffield Utd 4:1 -263 +401 +776
+14:00 Crystal Palace - Leeds 4:1 +186 +249 +150
+11:30 Everton - Manchester Utd 1:3 +219 +266 +123
+06 Nov 2020
+19:00 Southampton - Newcastle 2:0 +114 +248 +252
+16:30 Brighton - Burnley 0:0 +102 +242 +319
+02 Nov 2020
+19:00 Leeds - Leicester 1:4 +144 +265 +185
+16:30 Fulham - West Brom 2:0 +144 +229 +209
+01 Nov 2020
+18:15 Tottenham - Brighton 2:1 -169 +326 +484
+15:30 Manchester Utd - Arsenal 0:1 +100 +262 +291
+13:00 Newcastle - Everton 2:1 +240 +235 +127
+11:00 Aston Villa - Southampton 3:4 +159 +258 +171
+31 Oct 2020
+17:30 Liverpool - West Ham 2:1 -233 +419 +611
+15:00 Burnley - Chelsea 0:3 +463 +326 -167
+12:30 Sheffield Utd - Manchester City 0:1 +981 +503 -345
+30 Oct 2020
+20:00 Wolves - Crystal Palace 2:0 +106 +216 +330
+26 Oct 2020
+20:00 Burnley - Tottenham 0:1 +473 +336 -172
+17:30 Brighton - West Brom 1:1 -145 +303 +412
+25 Oct 2020
+19:15 Arsenal - Leicester 0:1 -105 +256 +316
+16:30 Wolves - Newcastle 1:1 -120 +248 +392
+14:00 Southampton - Everton 2:0 +206 +259 +133
+24 Oct 2020
+19:00 Liverpool - Sheffield Utd 2:1 -455 +631 +1221
+16:30 Manchester Utd - Chelsea 0:0 +163 +249 +173
+14:00 Fulham - Crystal Palace 1:2 +160 +220 +197
+11:30 West Ham - Manchester City 1:1 +575 +415 -227
+23 Oct 2020
+19:00 Aston Villa - Leeds 0:3 -108 +301 +273
+19 Oct 2020
+19:00 Leeds - Wolves 0:1 +150 +239 +195
+16:30 West Brom - Burnley 0:0 +161 +229 +189
+18 Oct 2020
+18:15 Leicester - Aston Villa 0:1 +138 +261 +196
+15:30 Tottenham - West Ham 3:3 -156 +320 +442
+13:00 Crystal Palace - Brighton 1:1 +212 +224 +146
+11:00 Sheffield Utd - Fulham 1:1 +127 +221 +250
+17 Oct 2020
+19:00 Newcastle - Manchester Utd 1:4 +363 +319 -139
+16:30 Manchester City - Arsenal 1:0 -185 +379 +467
+14:00 Chelsea - Southampton 3:3 -172 +353 +449
+11:30 Everton - Liverpool 2:2 +321 +322 -127
+04 Oct 2020
+18:15 Aston Villa - Liverpool 7:2 +579 +392 -217
+15:30 Manchester Utd - Tottenham 1:6 +106 +265 +259
+13:00 Arsenal - Sheffield Utd 2:1 -200 +336 +613
+13:00 Wolves - Fulham 1:0 -127 +252 +415
+11:00 Leicester - West Ham 0:3 -120 +295 +323
+11:00 Southampton - West Brom 2:0 -115 +278 +321
+03 Oct 2020
+19:00 Newcastle - Burnley 3:1 +141 +227 +216
+16:30 Leeds - Manchester City 1:1 +748 +587 -345
+03 Oct 2020
+14:00 Everton - Brighton 4:2 -127 +277 +371
+11:30 Chelsea - Crystal Palace 4:0 -192 +337 +557
+28 Sep 2020
+19:00 Liverpool - Arsenal 3:1 -204 +413 +486
+16:45 Fulham - Aston Villa 0:3 +204 +242 +141
+27 Sep 2020
+18:00 West Ham - Wolves 4:0 +234 +231 +127
+15:30 Manchester City - Leicester 2:5 -312 +488 +831
+13:00 Tottenham - Newcastle 1:1 -238 +384 +668
+11:00 Sheffield Utd - Leeds 0:1 +195 +240 +149
+26 Sep 2020
+19:00 Burnley - Southampton 0:1 +225 +241 +127
+16:30 West Brom - Chelsea 3:3 +588 +379 -217
+14:00 Crystal Palace - Everton 1:2 +254 +235 +120
+11:30 Brighton - Manchester Utd 2:3 +442 +320 -159
+21 Sep 2020
+19:15 Wolves - Manchester City 1:3 +592 +359 -208
+17:00 Aston Villa - Sheffield Utd 1:0 +146 +220 +217
+20 Sep 2020
+18:00 Leicester - Burnley 4:2 -182 +322 +542
+15:30 Chelsea - Liverpool 0:2 +243 +285 +106
+13:00 Newcastle - Brighton 0:3 +164 +219 +191
+11:00 Southampton - Tottenham 2:5 +237 +240 +125
+19 Sep 2020
+19:00 Arsenal - West Ham 2:1 -200 +351 +570
+16:30 Manchester Utd - Crystal Palace 1:3 -270 +409 +794
+14:00 Leeds - Fulham 4:3 -139 +285 +412
+11:30 Everton - West Brom 5:2 -169 +305 +525
+14 Sep 2020
+19:15 Brighton - Chelsea 1:3 +499 +342 -179
+17:00 Sheffield Utd - Wolves 0:2 +227 +189 +161
+13 Sep 2020
+15:30 Tottenham - Everton 0:1 +106 +243 +283
+13:00 West Brom - Leicester 0:3 +234 +238 +127
+12 Sep 2020
+19:00 West Ham - Newcastle 0:2 +100 +260 +282
+16:30 Liverpool - Leeds 4:3 -370 +522 +1006
+14:00 Crystal Palace - Southampton 1:0 +209 +225 +146
+11:30 Fulham - Arsenal 0:3 +438 +297 -149
